@@ -9,3 +9,8 @@ Current Menu :
 Bot checks AWS Dynamo DB to see your previous order and reccomends it back to you.
 
 Further Revisions will include Initializing Bot with Menu and expanding Menu too.
+
+
+Use this link : https://app.slack.com/app-settings/TQDE9LXHP/A01DW9BEXGW/distribute to add CoffeeBot to your slack workspace. 
+
+Email me at at Shaythuram@gmail.com for reviews or constructive criticism
